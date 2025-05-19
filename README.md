@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://lotharsportfolio.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=render&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=render&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lothartj&" alt="lothartj" /></p>
