@@ -52,7 +52,7 @@
   </a>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lothartj&" alt="lothartj" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lothartj&show_icons=true&locale=en&layout=compact" alt="lothartj" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lothartj&show_icons=true&locale=en&layout=compact" alt="lothartj" /></p> -->
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/lothar">
