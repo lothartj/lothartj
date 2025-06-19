@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Lothar Tjipueja...</h1>
+<h1>Hi 👋, I'm Lothar Tjipueja</h1>
 <img src="https://komarev.com/ghpvc/?username=lothartj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 
 <p>A passionate Software Engineer from Namibia, Windhoek.</p>
